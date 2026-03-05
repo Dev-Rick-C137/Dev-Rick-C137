@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
+  
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=.rick.c137&label=Profile%20Views&countColor=%2300d9ff&style=flat&labelStyle=none)](https://visitorbadge.io/status/.rick.c137)
 [![GitHub followers](https://img.shields.io/github/followers/.rick.c137?label=Followers&style=social)](https://github.com/.rick.c137?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/.rick.c137?style=social)](https://github.com/.rick.c137)
+
 </div>
 
-<div align="center">
 ## <img src="https://cdn3.emoji.gg/emojis/2214-rick-dancing.gif" alt="Fire" width="40" /> About Me
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -90,9 +90,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<div align="center">
 ## <img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" alt="Fire" width="40" /> Featured Projects
-</div>
 
 <div align="center">
   <table>
@@ -129,9 +127,7 @@
   </table>
 </div>
 
-<div align="center">
 ## <img src="https://cdn3.emoji.gg/emojis/51662-matrix.gif" alt="Fire" width="40" /> Development Environment
-</div>
 
 <div align="center">
   <table>
@@ -162,9 +158,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 </div>
 
-<div align="center">
 ## <img src="https://cdn3.emoji.gg/emojis/2385-rick-shake-that-ass.gif" alt="Fire" width="40" /> Total Development Breakdown
-</div>
 
 <!--START_SECTION:waka-->
 ```text
@@ -181,9 +175,7 @@ Period: 11 years (Ø 10h/day)
 ```
 <!--END_SECTION:waka-->
 
-<div align="center">
 ## <img src="https://cdn3.emoji.gg/emojis/655233-greensparklies.gif" alt="Fire" width="40" /> Contribution Snake
-</div>
 
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/driizzyy/driizzyy/output/snake.svg" />
@@ -227,9 +219,8 @@ Period: 11 years (Ø 10h/day)
   </a>
 </div>
 <br>
-<div align="center">
+<br>
   <p><i>"Code is like humor. When you have to explain it, it's bad." – Cory House<br>                        (Quote from Driizzy)</i></p>
   
   <sub>Made With 💙     -     <a href="https://dev-rick-c137.github.io/Launcher/">.rick.c137</a></sub>
-</div>
 </div>
