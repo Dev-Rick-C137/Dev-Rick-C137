@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
   
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=.rick.c137&label=Profile%20Views&countColor=%2300d9ff&style=flat&labelStyle=none)](https://visitorbadge.io/status/.rick.c137)
 [![GitHub followers](https://img.shields.io/github/followers/.rick.c137?label=Followers&style=social)](https://github.com/.rick.c137?tab=followers)
@@ -184,13 +180,6 @@ Period: 11 years (Ø 10h/day)
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/driizzyy/driizzyy/output/snake.svg" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
   <h3>💬 Please feel free to contact me if you:</h3>
 
