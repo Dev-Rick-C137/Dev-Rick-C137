@@ -180,8 +180,10 @@ Period: 11 years (Ø 10h/day)
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/driizzyy/driizzyy/output/snake.svg" />
 </div>
-  
+
+  <div align="center">
   <h3>💬 Please feel free to contact me if you:</h3>
+  </div>
 
 <div align="center">
   <table>
