@@ -218,9 +218,11 @@ Period: 11 years (Ø 10h/day)
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </div>
+
 <br>
-<br>
+  <div align="center">
   <p><i>"Code is like humor. When you have to explain it, it's bad." – Cory House<br>                        (Quote from Driizzy)</i></p>
   
   <sub>Made With 💙     -     <a href="https://dev-rick-c137.github.io/Launcher/">.rick.c137</a></sub>
+  </div>
 </div>
